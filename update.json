@@ -1,0 +1,13 @@
+{
+  "CurrentVersion": "1.0.0",
+  "NewVersion": "1.1.0",
+  "ReleaseDate": "2024-02-07T10:00:00",
+  "FileSize": 5242880,
+  "DownloadUrl": "https://github.com/Fera2007/FeraDownloadManager/releases/download/v1.1.0/Fera_Update_1.1.0.zip",
+  "ChangelogArabic": "✨ الإصدار 1.1.0:\n\n✅ نظام التحديث التلقائي\n✅ إصلاحات وتحسينات الأداء\n✅ تحسين استقرار النظام\n✅ واجهة مستخدم محسنة\n✅ دعم لغوي أفضل",
+  "ChangelogEnglish": "✨ Version 1.1.0:\n\n✅ Auto-update system\n✅ Performance improvements\n✅ System stability fixes\n✅ Enhanced user interface\n✅ Better language support",
+  "Checksum": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "IsCritical": false,
+  "RequiresRestart": true,
+  "MinimumWindowsVersion": "10.0.18362"
+}
