@@ -2,11 +2,11 @@
   "CurrentVersion": "1.0.0",
   "NewVersion": "1.1.0",
   "ReleaseDate": "2024-02-08T10:00:00",
-  "FileSize": 5242880,
+  "FileSize": 507904,
   "DownloadUrl": "https://github.com/Fera-666/FeraUpdates/releases/download/v1.1.0/Fera_Update_1.1.0.zip",
   "ChangelogArabic": "✨ الإصدار 1.1.0 - نظام التحديث التلقائي\n\n✅ ميزات جديدة:\n• نظام تحديث تلقائي من GitHub\n• واجهة تحديث جميلة\n• تحميل خلفي للملفات\n• تحقق من التوقيع الرقمي\n\n✅ إصلاحات:\n• تحسين استقرار النظام\n• إصلاح مشاكل الذاكرة\n• تحسين سرعة التحميل\n\n📅 تاريخ الإصدار: 8 فبراير 2024",
   "ChangelogEnglish": "✨ Version 1.1.0 - Auto Update System\n\n✅ New Features:\n• Auto-update system from GitHub\n• Beautiful update interface\n• Background file downloading\n• Digital signature verification\n\n✅ Fixes:\n• Improved system stability\n• Memory leak fixes\n• Download speed improvements\n\n📅 Release Date: February 8, 2024",
-  "Checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "Checksum": "BB906881932FB7920614CF0678C105A47F2C18490348A2F653A773355E53A234",
   "IsCritical": false,
   "RequiresRestart": true,
   "MinimumWindowsVersion": "10.0.18362"
