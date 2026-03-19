@@ -5,7 +5,7 @@
   "DownloadUrl": "https://github.com/Fera-666/FeraUpdates/releases/download/v1.1.0/Fera_Update_1.1.0.zip",
   "FileSize": 544768,
   "Checksum": "sha256:90C2F1E93295D296D160713C6A17FCCCC4DC9D2F68E6BD1AC6FA891812520D00",
-  "ChangelogEnglish": "🔧 Version 1.1.0 – Test Update\n\nThis is a test update to verify the auto-update system. No new features or changes in this version.\n\n📅 Release Date: March 20, 2026",
+  "ChangelogEnglish": "🔧 Version 1.1.0 – Test Update\n\nThis is a test update to verify the auto-update system. No new features or changes in this version.\n\n Release Date: March 20, 2026",
   "IsCritical": false,
   "RequiresRestart": true,
   "MinimumWindowsVersion": "10.0.17763"
