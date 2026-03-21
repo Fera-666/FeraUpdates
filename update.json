@@ -4,8 +4,9 @@
   "ReleaseDate": "2026-03-20T12:00:00Z",
   "DownloadUrl": "https://github.com/Fera-666/FeraUpdates/releases/download/v1.1.0/Fera_Update_1.1.0.zip",
   "FileSize": 593920,
-  "Checksum": "sha256:CCC6E06F6470A94371B97AE57EABD06570EB7A06112F7C0BBDB5165692D0F75F",
+  "Checksum": "sha256:659CC701C485F493421392DE301AB295B0641A460336B0EDB862493C7FCE725D",
   "ChangelogEnglish": "🔧 Version 1.1.0 – Test Update\n\nThis is a test update to verify the auto-update system. But must download this version.\n\n Release Date: March 20, 2026",
+  "ChangelogArabic": "🔧 الإصدار 1.1.0 – تحديث تجريبي\n\nهذا تحديث تجريبي للتحقق من نظام التحديث التلقائي. يجب تحميل هذا الإصدار.\n\n📅 تاريخ الإصدار: 20 مارس 2026",
   "IsCritical": true,
   "RequiresRestart": true,
   "MinimumWindowsVersion": "10.0.17763"
